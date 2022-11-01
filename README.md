@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://avatars.mds.yandex.net/i?id=fc413ba13b351671326f9e5ac28bc8c2a9aaec49-4430515-images-thumbs&n=13)
+
 <!--
 **maxkambayev/maxkambayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
