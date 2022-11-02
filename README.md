@@ -12,5 +12,5 @@ My name is
 
 Contacts
 
-<img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" /> <img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" /> <img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" /> <img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" /> <img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" /> <img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" /> 
+<img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" /> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=26A5E4" /> <img src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=WhatsApp&logoColor=E4405F" /> <img src="https://img.shields.io/badge/VK-black?style=for-the-badge&logo=VK&logoColor=#0077FFF" /> <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook&logoColor=1877F2" /> <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=000000" /> 
 
