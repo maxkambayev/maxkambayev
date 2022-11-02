@@ -12,5 +12,5 @@ My name is
 
 Contacts
 
-<img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/Instaagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F" />
 
