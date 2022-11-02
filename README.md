@@ -1,3 +1,3 @@
 Welcome to my profile to github.
 
-[https://img.shields.io/static/HTML-BLUE=<LABEL>&message=<MESSAGE>&color=<COLOR>](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+<img src="https://img.shields.io/badge/HTML-40E0D0?style=for-the-badge&logo=HTML5&logoColor=black" />
